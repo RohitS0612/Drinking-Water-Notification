@@ -10,7 +10,7 @@ def Water():
             app_icon ="drink-bottle.ico",
             timeout=(15)
         )
-        time.sleep(15*15)
+        time.sleep(15*15)        #3.75 Minutes
 
 if __name__ == '__main__':
     Water()
